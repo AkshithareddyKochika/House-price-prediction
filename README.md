@@ -14,11 +14,6 @@ Project description and instructions.
 The project requires the following Python libraries:
 
 numpy
-```Java
-public class java
-
-
-```
 
 pandas
 
